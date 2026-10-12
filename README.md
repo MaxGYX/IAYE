@@ -1,11 +1,18 @@
 # IAYE (I Am Your Eyes)
-IAYE is a Smart Wearable Device that uses AI Large Model Technology to Improve the Blind's Environmental Understanding Ability.
 
-<img width="413" height="227" alt="image" src="https://github.com/user-attachments/assets/610b539b-7500-4e1c-a8e6-72a822c3c908" />
+IAYE is a smart wearable device that utilizes advanced AI large language models to improve environmental awareness for the visually impaired.
 
-Blind people and people with severe visual impairments face huge challenges in all aspects of life. 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/610b539b-7500-4e1c-a8e6-72a822c3c908" alt="IAYE Logo" width="400">
+</div>
 
-We designed a smart wearable device which can capture and understand the surrounding environment in real time, and use the most advanced AI large language model technology to intelligently interpret environmental information, which can effectively help blind people obtain important information in front of them, while allowing them to feel the beauty of the environment. 
+People with severe visual impairments face significant challenges in their daily lives. To address this, we designed IAYE—a smart wearable device that captures and processes surrounding environments in real-time. 
 
-We hope such a device can greatly enhance the independence of blind people's lives and increase their self-confidence and life satisfaction.
+By leveraging cutting-edge Large Language Models (LLMs), IAYE intelligently interprets environmental information. It not only helps users obtain crucial information about what is in front of them but also allows them to "feel" and appreciate the beauty of their surroundings.
+
+Our goal is to significantly enhance the independence, self-confidence, and overall life satisfaction of the visually impaired.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ccf7cab2-6958-48db-8721-a4be6c611b23" alt="IAYE Logo" width="400">
+</div>
 
